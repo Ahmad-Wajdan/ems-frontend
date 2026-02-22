@@ -1,4 +1,4 @@
-import { tr } from "motion/react-client";
+
 import React, { useEffect, useState } from "react";
 import { deleteEmployee, listEmployees } from "../services/EmployeeService";
 import { useNavigate } from "react-router-dom";
